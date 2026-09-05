@@ -1,0 +1,9 @@
+{
+  "ID": "LenovoYogaPlugin",
+  "Name": "Lenovo Yoga 7 16AGP11",
+  "Author": "Oneweys",
+  "Description": "Support for Lenovo Yoga 7 2-in-1 16AGP11 (83TF)",
+  "Version": "1.0.0",
+  "TargetFramework": "net8.0",
+  "MinimumFanControlVersion": "198"
+}
