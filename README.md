@@ -14,9 +14,7 @@ The plugin is expected to work on Lenovo Yoga 7 models using the same Lenovo fan
 This plugin uses Lenovo's **LENOVO_OTHER_METHOD** WMI interface to read and control the fan speed. Fan Control's existing temperature sensors can be used to create fan curves.
 
 ## Installation
-1. Download the <a href="[https://github.com](https://github.com/Oneweys/FanControl.LenovoYoga-7/releases)" class="download-btn">
-  Download Latest Version
-</a>, or browse all [Releases](https://github.com/Oneweys/FanControl.LenovoYoga-7/releases).
+1. /releases/latest/download/, or browse all [Releases](https://github.com/Oneweys/FanControl.LenovoYoga-7/releases).
 2. Extract the downloaded ZIP file.
 3. Start Fan Control as **administrator**, click **Settings**, then **Plugins**, and select `FanControl.LenovoYoga.dll`.
 4. Go back to **Home** and click **Calibrate**. Fan Control will automatically test the fan.
